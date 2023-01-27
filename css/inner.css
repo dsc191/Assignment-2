@@ -1,0 +1,123 @@
+body {
+    margin: 0 0 0 0;
+    width: 1560px;
+    height: 1359px;
+    background-color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+  
+    border: 0.1px solid gray;
+}
+
+.manubar {
+    position: absolute;
+    margin: 29px 50px 34px 29px;
+
+}
+
+header {
+    position: absolute;
+    width: 1560px;
+    height: 80px;
+    display: flex;
+    background-color: white;
+}
+
+.logo {
+    position: absolute;
+
+    margin: 25px 29px 25px 72px;
+    width: 142px;
+    height: 30px;
+
+}
+
+.search {
+    position: absolute;
+
+    height: 22px;
+    margin-top: 31.67px;
+}
+
+.searchbox {
+    position: absolute;
+
+    width: 16px;
+    height: 21px;
+    margin-top: 32px;
+    margin-left: 12px;
+    color: #000000;
+    opacity: 1;
+}
+
+.notification {
+    position: absolute;
+
+    height: 20px;
+    margin-left: 950px;
+    margin-top: 30px;
+}
+
+.profile {
+    position: absolute;
+
+    width: 44px;
+    height: 44px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.profilename {
+    position: absolute;
+
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.downward {
+    position: absolute;
+    height: 20px;
+    margin-right: 40px;
+    margin-top: 30px;
+    margin-left: 14px;
+}
+
+.sidebar {
+    top: 80px;
+    position: absolute;
+
+    left: 0px;
+    width: 242px;
+    height: 1279px;
+
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#sidebarOptaion {
+    position: absolute;
+
+    height: 15px;
+    margin-top: 39px;
+    margin-left: 47.5px;
+}
+
+.para {
+    margin-left: 20px;
+}
+
+.body {
+    display: flex;
+}
+
+.h2 {
+    margin-left: 62px;
+}
+
+.img {
+    margin-left: -5em;
+    margin-top: 81px;
+    background-color: white;
+    height: 70px;
+    width: 170px;
+}
+
